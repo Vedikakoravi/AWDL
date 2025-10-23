@@ -1,0 +1,6 @@
+Step 1: Create a folder 'Exp_4'
+Step 2: In Exp_4 folder create one more folder 'views'.
+step 3: insert all .ejs files in views folder.
+step 4: write a JS code in Exp_4 folder and save it as app.js
+step 5: download the required packages using command 'npm init -y'
+step 6: run the app.js file using command "node app.js".
